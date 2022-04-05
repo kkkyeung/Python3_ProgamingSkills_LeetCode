@@ -1,0 +1,5 @@
+First we need to create an empty list,
+
+then create a new function to append the root value, then we can add all the children to the output.
+
+then recall this function and get the output list.
