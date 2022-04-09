@@ -1,0 +1,1 @@
+Check if the position is 0, if not , swap it to the next one, and start from next one, then keep checking and swaping until to the end.
