@@ -1,0 +1,8 @@
+****see more for example.jpg.
+*Start1 and Start2 is in the example.jpg.
+
+First, we need to find the sum of the first line (primary diagonal) which is the "Start1",
+then we need to find the sum of the second line(secondary diagonal) which is the "Start2".
+
+Finally check if there is a odd list inside the list, if yes, the output need to - the mid number,
+if not just simple return the output.
