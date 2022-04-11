@@ -1,0 +1,6 @@
+First, check the list size, if not matched, return mat,
+Then, keep appending until the columnSize equal to the input number of column(c) and append it to the output.
+reset the list and keep looping, finally return the outout.
+
+My first submission on leetcode:
+https://leetcode.com/problems/reshape-the-matrix/discuss/1936328/Python3-Simple-Solution(Beginner)
