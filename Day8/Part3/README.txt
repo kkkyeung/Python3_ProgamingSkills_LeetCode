@@ -1,0 +1,2 @@
+sort the string first, then use for loop to find the dif, then return it.
+if the for loop result all the same, then return the last letter of the t string since t.length == s.length +1 is one of the constraints.
