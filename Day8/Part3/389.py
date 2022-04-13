@@ -25,3 +25,27 @@ class Solution:
 #     for c in s + t:
 #         ans ^= ord(c)
 #     return chr(ans)
+
+["apap","app"]
+"abcdefghijklmnopqrstuvwxyz"
+
+["apple","app"]
+"abcdefghijklmnopqrstuvwxyz"
+
+
+
+
+
+
+["ubg","kwh"]
+"qcipyamwvdjtesbghlorufnkzx"
+
+
+["hello","leetcode"]
+"hlabcdefgijkmnopqrstuvwxyz"
+
+["fxasxpc","dfbdrifhp","nwzgs","cmwqriv","ebulyfyve","miracx","sxckdwzv","dtijzluhts","wwbmnge","qmjwymmyox"]
+"zkgwaverfimqxbnctdplsjyohu"
+
+["vombdpkclrfykrh","vxhdncmbnodso","grzck","cjeiubwdajhgt","erqdzxwmshrat","boifwufuuhhabmj","jcryfubqdpn","vtpkgzxm","cerjouywyg","mpihncumtqx"]
+"ecnphldubigaozyxmvwtkfqrsj"
