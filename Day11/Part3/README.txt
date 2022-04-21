@@ -1,0 +1,1 @@
+just sort both strings, if they are the same return true, if not , return false.
