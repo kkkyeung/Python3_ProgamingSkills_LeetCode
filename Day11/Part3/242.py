@@ -6,4 +6,5 @@ class Solution:
             return True
         else:
             return False
-        
+
+# 54ms Faster 74.56%,  less than 26.67%
