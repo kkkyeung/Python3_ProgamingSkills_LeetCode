@@ -5,4 +5,4 @@ class Solution:
         for x in t: tracker[x] -= 1
         return all(x == 0 for x in tracker.values())
 
-# Faster than 98.39%, Memory usage less than 100%
+# Faster than  88.72%,  Memory usage less than 35.58%
