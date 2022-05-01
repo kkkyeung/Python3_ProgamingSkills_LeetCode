@@ -15,3 +15,5 @@ class Solution:
                 else:
                     stack.append(int(float(l)/r))
         return stack.pop()
+
+# https://leetcode.com/problems/evaluate-reverse-polish-notation/discuss/47444/Python-easy-to-understand-solution
