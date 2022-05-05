@@ -1,0 +1,1 @@
+change the str to dec, then a plus b, then change it back to bin.
