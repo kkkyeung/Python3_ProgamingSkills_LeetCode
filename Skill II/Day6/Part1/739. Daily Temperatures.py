@@ -1,6 +1,5 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        flag = 0
         output = []
         if len(temperatures) == 1:
             return [0]
