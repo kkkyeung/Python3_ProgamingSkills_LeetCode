@@ -1,3 +1,6 @@
+from reprlib import recursive_repr
+
+
 class Solution:
     # @param {TreeNode} root
     # @return {boolean}
@@ -12,3 +15,7 @@ class Solution:
             return 0
 
         return 1 + max(self.getHeight(root.left), self.getHeight(root.right))
+
+
+
+#recursive

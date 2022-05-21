@@ -4,5 +4,3 @@ class Solution:
 
 # Runtime: 24 ms, faster than 99.34% of Python3 online submissions for Add Binary.
 # Memory Usage: 13.9 MB, less than 25.52% of Python3 online submissions for Add Binary.
-
-
