@@ -8,7 +8,9 @@ class Solution:
             return ""
         
         for i, ch in enumerate(min(strs,key=len)):
-            for other in strs:
-                if other[i] != ch:
+            for all in strs:
+                if all[i] != ch:
                     return min(strs,key=len)[:i]
-        return min(strs,key=len) 
+        return min(strs,key=len)
+
+# do the comparation between the shortest string and all otherstring using index.
