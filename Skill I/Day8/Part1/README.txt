@@ -1,10 +1,3 @@
-class Solution:
-    def mergeAlternately(self, word1: str, word2: str) -> str:
-        
-        output = ''
-        
-        for i in range(min(len(word1),len(word2))):
-            output += word1[i] + word2[i]
-        
-        
-        return output + word1[i+1:] + word2[i+1:]
+First, create and empty output, then use min() function to find which is smaller length,
+then based on this length to loop it, append the string to the output.
+Finally, add the remaining string to the output, no matter word1 or 2 since we already loop one of these.
