@@ -1,3 +1,12 @@
+"""
+# Definition for a Node.
+class Node:
+    def __init__(self, val=None, children=None):
+        self.val = val
+        self.children = children
+"""
+
+
 class Solution: 
     def levelOrder(self, root: 'Node') -> List[List[int]]:
         def dfs(root, level):
@@ -14,6 +23,5 @@ class Solution:
 
 
 #dfs method
-
 # Runtime: 84 ms, faster than 29.22% of Python3 online submissions for N-ary Tree Level Order Traversal.
 # Memory Usage: 16 MB, less than 51.73% of Python3 online submissions for N-ary Tree Level Order Traversal.
