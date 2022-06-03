@@ -24,7 +24,6 @@ class Solution:
         else:
             output.append(nums[len(nums)-2])
         
-        # print(output)
         return output
 
-# First Part Unfinished... So tired today :(    let do the remain part tomorrow
+# unfinished
